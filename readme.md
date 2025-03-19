@@ -1,4 +1,4 @@
-# ☀️⛅ Previsão de Tempo⛈️❄️
+# ☀️⛅ Previsão do Tempo⛈️❄️
 
 ![Imagem de Capa ](./src/images/capa.jpg)
 
